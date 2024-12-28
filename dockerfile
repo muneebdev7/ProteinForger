@@ -1,4 +1,4 @@
-FROM continuumio/anaconda3
+FROM continuumio/miniconda3
 
 # Set the working directory in the container
 WORKDIR /app
