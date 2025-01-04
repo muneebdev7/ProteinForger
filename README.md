@@ -5,11 +5,9 @@ You just need to create a conda environment using the yml file.
 
 [![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://docs.conda.io/en/latest/)
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/)
-
-[![Dependencies](https://img.shields.io/librariesio/github/muneebdev7/proteinforger)](https://libraries.io/github/muneebdev7/proteinforger)
 [![Platform](https://img.shields.io/badge/platform-linux-blue)](https://github.com/muneebdev7/proteinforger)
 
-[![License](https://img.shields.io/github/license/muneebdev7/proteinforger)](LICENSE)
+![Lisence MIT](https://anaconda.org/bioconda/nf-core/badges/license.svg)
 
 ## Create Conda Environment
 
