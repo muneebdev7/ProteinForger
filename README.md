@@ -96,4 +96,5 @@ Replace `<container_id>` with the actual container ID from the previous command.
    >* Refer to the excel file [`ERRAT.xlsx`](benchmark/ERRAT.xlsx) regarding suggested Number of Minimization Steps, for reference.
    >
 > Author's note:  For further assistance email me at <muneebgojra@gmail.com>
-This app was originally built at BioCode.ltd
+   >
+   > *This app was originally built at BioCode.ltd*
